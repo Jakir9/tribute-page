@@ -1,16 +1,5 @@
-** start of undefined **
-
-
 <!DOCTYPE html>
 <html>
-
-  <style> 
-  img {
-    max-width:100%;
-    height: auto;
-    display:block; 
-  }  
-  </style>
 
   <head>
     <link rel="stylesheet" href="styles.css" />
@@ -109,11 +98,6 @@ Ali was diagnosed with Parkinson's syndrome, which sometimes results from head t
     </main>
   </body>
 </html>
-
-
-** end of undefined **
-
-** start of undefined **
 
 
 
