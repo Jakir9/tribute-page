@@ -1,4 +1,4 @@
-# tribute-page
+# Muhammad Ali Tribute Page
 
 ## Overview
 
